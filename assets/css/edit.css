@@ -1,0 +1,14 @@
+.double-line-reaction{
+    font-size: 1.3em;
+    padding: 0 0.2em;
+    font-style: normal;
+}
+.single-line-reaction{
+    font-size: 2em;
+    padding: 0 0.1em;
+    font-style: normal;
+}
+.fit-img{
+    width: 100%;
+    max-width: 600px;
+}

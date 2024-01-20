@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /class%2012%20science/physics/class-12-science-physics-notes/
+Disallow: /class%2012%20science/physics/class-12-science-physics-modelSet/
+Disallow: /class%2012%20science/physics/class-12-science-physics-modelQuestion-solutions/
+Disallow: /class%2012%20science/chemistry/class-12-science-chemistry-notes/
+Disallow: /class%2012%20science/chemistry/class-12-science-chemistry-modelSet/
+Disallow: /class%2012%20science/chemistry/class-12-science-chemistry-modelQuestion-solutions/
+Disallow: /class%2012%20science/maths/class-12-science-maths-notes/
+Disallow: /class%2012%20science/maths/class-12-science-Maths-modelSet/
+Disallow: /class%2012%20science/maths/class-12-science-maths-modelQuestion-solutions/
+Disallow: /class%2012%20science/biology/class-12-science-biology-notes/
+Disallow: /class%2012%20science/biology/class-12-science-biology-modelSet/
+Disallow: /class%2012%20science/biology/class-12-science-biology-modelQuestion-solutions/
